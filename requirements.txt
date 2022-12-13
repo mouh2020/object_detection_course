@@ -1,0 +1,4 @@
+imageai==2.1.6
+opencv_python==4.6.0.66
+pyTelegramBotAPI==4.8.0
+tensorflow==2.4.0
